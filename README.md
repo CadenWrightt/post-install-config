@@ -30,7 +30,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ ![Screenshot 2024-12-06 115300](https://github.com/user-attachments/assets/634d48f3-ad5f-4ea4-b861-e8fc762b9510)
+![Screenshot 2024-12-06 115345](https://github.com/user-attachments/assets/69b601a3-0286-45f3-a264-dd118c5a5a20)
+
 </p>
 <p>
 Acknowledge Agent Panel vs Admin Panel
@@ -38,7 +41,13 @@ Acknowledge Agent Panel vs Admin Panel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ ![Screenshot 2024-12-06 121227](https://github.com/user-attachments/assets/6cbfa411-6c04-4c2d-b967-c4ddc643d6b2)
+![Screenshot 2024-12-06 121252](https://github.com/user-attachments/assets/f55ac2ca-2b52-4a38-9f7f-997ea93eee7b)
+![Screenshot 2024-12-06 121319](https://github.com/user-attachments/assets/1492d81f-ab15-477b-9a19-b9153f496a57)
+![Screenshot 2024-12-06 121339](https://github.com/user-attachments/assets/cdb8c50c-b887-43f6-aa28-407e30e48aad)
+![image](https://github.com/user-attachments/assets/1f76fda3-56d7-40cc-a007-36729067c9d6)
+
 </p>
 <p>
 Configure Roles (for grouping permissions) Admin Panel -> Agents -> Roles Create a Supreme Admin Role |
@@ -51,17 +60,24 @@ Configure Roles (for grouping permissions) Admin Panel -> Agents -> Roles Create
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ ![Screenshot 2024-12-06 121418](https://github.com/user-attachments/assets/c28ff47f-b131-4db5-843a-d2f5a834bb09)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Users (customers) Agent Panel -> Users -> Add New Create Karen
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ ![Screenshot 2024-12-06 121503](https://github.com/user-attachments/assets/edd2320a-caff-4770-b726-7f2d371bfa6c)
+![Screenshot 2024-12-06 121519](https://github.com/user-attachments/assets/c5f0b67e-a95b-4b21-9359-f91fde1b7579)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure SLA,  Admin Panel -> Manage -> SLA, Sev-A (Grace Period: 1 hour, Schedule: 24/7) Sev-B (Grace Period: 4 hours, Schedule: 24/7) Sev-C (Grace Period: 8 hours, Business Hours) |
+Configure Help Topics (For when users create a ticket) Admin Panel -> Manage -> Help Topics, Create these Help Topics Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, Other
+
 </p>
 <br />
